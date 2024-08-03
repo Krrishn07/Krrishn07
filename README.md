@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on interesting open source projects
 - 📫 You can reach me at Linkedin: www.linkedin.com/in/bal-kishan-reddy-6360
 
-<img src="https://github.com/users/Krrishn07/achievements/pull-shark" alt="Shark Logo">
-
 [![An image of @krrishn075's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krrishn075)](https://holopin.io/@krrishn075)
 
 [![Alt text](https://www.credly.com/badges/12be925d-deb5-42dd-b9e0-4e9a25cf4da5/public_url)]
