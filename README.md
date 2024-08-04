@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/59232ee3-ca06-49ee-b699-612bad3942d6" alt="Dynamic Header" />
+  <img src="https://github.com/user-attachments/assets/d47addb9-78bf-4b9c-8ec5-e6a3a2e392eb" alt="Dynamic Header" />
 </p>
 
 <p align="center">
